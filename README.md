@@ -8,7 +8,9 @@ Planet Jersey is a full-stack CRUD application that allows users to buy a jersey
 
 To run the project locally, follow the steps below.
 
-### Installation
+### 🚀 Installation
+
+---
 
 To run the project locally, follow the steps below.
 
@@ -44,7 +46,9 @@ Frontend:
 cd ../frontend
 npm run dev
 ```
-### Importing the Database
+### 📁 Importing the Database
+
+---
 
 A SQL dump file is included in the project for quick setup. Make sure you have created a MySQL database and don't forget to activate the localhost in XAMPP
 
@@ -67,7 +71,9 @@ A SQL dump file is included in the project for quick setup. Make sure you have c
 
 After importing, the database will contain all required tables.
 
-## Usage
+### 📖 Usage
+
+---
 
 1. Visit the frontend in your browser:
    (user)
@@ -86,8 +92,11 @@ After importing, the database will contain all required tables.
    - Add item to carts (users)
    - Select jersey type in homepage (users)
   
- ## License
+ ## 📄 License
 
 Distributed under the GPL-v3 License. See `LICENSE` for more information.
 
-Made with ❤️ for football fans worldwide
+---
+
+<p align="center">Made with ❤️ for football fans worldwide</p>
+
