@@ -4,27 +4,34 @@ Installation
 To run the project locally, follow the steps below.
 
 1. Clone the repo
-git clone https://github.com/barraIhsan/gastrono.git gastronoo
-cd gastronoo
+```
+git clone https://github.com/MulkyAyyubi/planet-jersey.git
+cd planet_jersey
+```
 
 2. Install dependencies for both backend and frontend
+```
 cd backend && pnpm install
 cd ../frontend && pnpm install
+```
 
-3. Add environment variables by copying .env.example
+4. Add environment variables by copying .env.example
+```
 cd ..
 cp backend/.env.example backend/.env
 cp frontend/.env.example frontend/.env
+```
 
-4. Start development servers
-
+6. Start development servers
+```
 Backend:
 
 cd backend
-pnpm start
-
-
+npm run start
+```
+```
 Frontend:
 
 cd ../frontend
-pnpm dev
+npm run dev
+```
